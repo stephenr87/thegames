@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot", "ParkingLot.csproj", "{F042D69D-3F4B-1782-EA81-BC196D5459AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot.Editor", "ParkingLot.Editor.csproj", "{790E5FA2-3F1A-9FDF-6AE1-B96BA6D5421C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F042D69D-3F4B-1782-EA81-BC196D5459AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F042D69D-3F4B-1782-EA81-BC196D5459AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F042D69D-3F4B-1782-EA81-BC196D5459AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F042D69D-3F4B-1782-EA81-BC196D5459AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790E5FA2-3F1A-9FDF-6AE1-B96BA6D5421C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790E5FA2-3F1A-9FDF-6AE1-B96BA6D5421C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790E5FA2-3F1A-9FDF-6AE1-B96BA6D5421C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790E5FA2-3F1A-9FDF-6AE1-B96BA6D5421C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
